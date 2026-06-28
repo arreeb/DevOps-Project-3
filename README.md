@@ -64,6 +64,29 @@ Jenkins Dev Deployment
 <img width="944" height="505" alt="jenkins dev console output" src="https://github.com/user-attachments/assets/8d847143-ad27-4552-b836-31978bce1270" />
 
 Jenkins Main Deployment
+<img width="949" height="503" alt="jenkins main branch" src="https://github.com/user-attachments/assets/bd5175b2-fe9a-4fb5-be73-5f37bdf2cb45" />
+<img width="952" height="508" alt="jenkins main stages" src="https://github.com/user-attachments/assets/60ec79be-c7eb-418e-8a86-a9a4500fca5e" />
+<img width="956" height="509" alt="jenkins main console output" src="https://github.com/user-attachments/assets/516cb218-a7bf-4cbf-ba22-b2d0eb72735e" />
+
+
+Grafana Dashboards
+
+<img width="952" height="481" alt="grafana alert rules" src="https://github.com/user-attachments/assets/17e78767-7d1f-46d6-8af7-ca68bb364294" />
+<img width="955" height="509" alt="grafana dashboard" src="https://github.com/user-attachments/assets/22a52d9a-d80f-4d21-b2ac-5b6b32ea80f9" />
+
+Prometheus Targets
+<img width="955" height="514" alt="Prometheus" src="https://github.com/user-attachments/assets/11106194-0756-492c-b78a-5899f0a50a6e" />
+
+
+Discord Message for fired alert
+<img width="950" height="473" alt="discord alert firing ss" src="https://github.com/user-attachments/assets/a23a50da-3e51-4939-ba96-23729777096a" />
+
+Discord Message for resolved alert
+<img width="950" height="478" alt="discord alert resolved ss" src="https://github.com/user-attachments/assets/450d1825-11d4-46a2-a615-96d6ae009ead" />
+
+
+
+
 
 
 
